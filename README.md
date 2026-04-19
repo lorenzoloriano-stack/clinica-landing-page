@@ -1,4 +1,4 @@
-# 🩺 Clínica Vida Saudável — Landing Page
+# Clínica Vida Saudável — Landing Page
 
 Este projeto foi desenvolvido como atividade acadêmica com o objetivo de criar uma **Landing Page estática** para uma clínica de saúde fictícia.
 
@@ -6,20 +6,20 @@ A página apresenta os serviços oferecidos, a equipe profissional e um formulá
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Desenvolver uma página web estática utilizando HTML e CSS para melhorar a presença digital de uma clínica de saúde e facilitar o contato com pacientes.
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  
 
 ---
 
-## 📌 Funcionalidades da Página
+## Funcionalidades da Página
 
 ✔️ Título na aba do navegador  
 ✔️ Apresentação da clínica  
@@ -36,7 +36,7 @@ Obs: O formulário é estático, sem envio de dados, conforme requisitos do proj
 
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Baixe os arquivos do repositório
 2. Abra o arquivo **index.html** em qualquer navegador (Chrome, Edge, Firefox)
