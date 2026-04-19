@@ -42,9 +42,3 @@ Obs: O formulário é estático, sem envio de dados, conforme requisitos do proj
 2. Abra o arquivo **index.html** em qualquer navegador (Chrome, Edge, Firefox)
 
 Não é necessário instalar programas ou bibliotecas.
-
----
-
-## 👨‍🎓 Autor
-
-Projeto desenvolvido para fins educacionais.
