@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background: #2a9d8f;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+.equipe {
+    display: inline-block;
+    margin: 20px;
+}
+
+.equipe img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+form input {
+    margin: 5px;
+    padding: 8px;
+    width: 200px;
+}
+
+button {
+    background: #2a9d8f;
+    color: white;
+    padding: 10px;
+    border: none;
+}
